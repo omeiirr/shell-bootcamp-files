@@ -1,0 +1,145 @@
+Id|Commerciality|Entitlement|Green Brown Field|Minority Interest
+1|Commercial|Company|Unknown|Exclude minority interests
+2|Commercial|Company|Unknown|Include minority interests
+3|Commercial|Company|Unknown|Include minority interests
+4|Commercial|Company|Exploration|Exclude minority interests
+5|Commercial|Company|Exploration|Include minority interests
+6|Commercial|Company|Exploration|Include minority interests
+7|Commercial|Company|Greenfield|Exclude minority interests
+8|Commercial|Company|Greenfield|Include minority interests
+9|Commercial|Company|Greenfield|Include minority interests
+10|Commercial|Company|Brownfield|Exclude minority interests
+11|Commercial|Company|Brownfield|Include minority interests
+13|Commercial|Government|Unknown|Exclude minority interests
+14|Commercial|Government|Unknown|Include minority interests
+15|Commercial|Government|Unknown|Include minority interests
+18|Commercial|Government|Exploration|Include minority interests
+22|Commercial|Government|Brownfield|Exclude minority interests
+23|Commercial|Government|Brownfield|Include minority interests
+24|Commercial|Government|Brownfield|Include minority interests
+28|Commercial|Government (Post Expiry)|Exploration|Exclude minority interests
+29|Commercial|Government (Post Expiry)|Exploration|Include minority interests
+34|Commercial|Government (Post Expiry)|Brownfield|Exclude minority interests
+36|Commercial|Government (Post Expiry)|Brownfield|Include minority interests
+38|Uncertain|Company|Unknown|Include minority interests
+42|Uncertain|Company|Exploration|Include minority interests
+44|Uncertain|Company|Greenfield|Include minority interests
+45|Uncertain|Company|Greenfield|Include minority interests
+48|Uncertain|Company|Brownfield|Include minority interests
+49|Uncertain|Government|Unknown|Exclude minority interests
+52|Uncertain|Government|Exploration|Exclude minority interests
+55|Uncertain|Government|Greenfield|Exclude minority interests
+58|Uncertain|Government|Brownfield|Exclude minority interests
+60|Uncertain|Government|Brownfield|Include minority interests
+65|Uncertain|Government (Post Expiry)|Exploration|Include minority interests
+77|Uncommercial|Company|Exploration|Include minority interests
+85|Uncommercial|Government|Unknown|Exclude minority interests
+101|Uncommercial|Government (Post Expiry)|Exploration|Include minority interests
+106|Uncommercial|Government (Post Expiry)|Brownfield|Exclude minority interests
+114|Uncommercial disregarded|Company|Exploration|Include minority interests
+119|Uncommercial disregarded|Company|Brownfield|Include minority interests
+128|Uncommercial disregarded|Government|Greenfield|Include minority interests
+26|Commercial|Government (Post Expiry)|Unknown|Include minority interests
+27|Commercial|Government (Post Expiry)|Unknown|Include minority interests
+30|Commercial|Government (Post Expiry)|Exploration|Include minority interests
+35|Commercial|Government (Post Expiry)|Brownfield|Include minority interests
+71|Uncertain|Government (Post Expiry)|Brownfield|Include minority interests
+74|Uncommercial|Company|Unknown|Include minority interests
+80|Uncommercial|Company|Greenfield|Include minority interests
+86|Uncommercial|Government|Unknown|Include minority interests
+92|Uncommercial|Government|Greenfield|Include minority interests
+94|Uncommercial|Government|Brownfield|Exclude minority interests
+95|Uncommercial|Government|Brownfield|Include minority interests
+99|Uncommercial|Government (Post Expiry)|Unknown|Include minority interests
+141|Uncommercial disregarded|Government (Post Expiry)|Greenfield|Include minority interests
+88|Uncommercial|Government|Exploration|Exclude minority interests
+116|Uncommercial disregarded|Company|Greenfield|Include minority interests
+124|Uncommercial disregarded|Government|Exploration|Exclude minority interests
+142|Uncommercial disregarded|Government (Post Expiry)|Brownfield|Exclude minority interests
+12|Commercial|Company|Brownfield|Include minority interests
+17|Commercial|Government|Exploration|Include minority interests
+19|Commercial|Government|Greenfield|Exclude minority interests
+21|Commercial|Government|Greenfield|Include minority interests
+25|Commercial|Government (Post Expiry)|Unknown|Exclude minority interests
+31|Commercial|Government (Post Expiry)|Greenfield|Exclude minority interests
+32|Commercial|Government (Post Expiry)|Greenfield|Include minority interests
+53|Uncertain|Government|Exploration|Include minority interests
+57|Uncertain|Government|Greenfield|Include minority interests
+64|Uncertain|Government (Post Expiry)|Exploration|Exclude minority interests
+66|Uncertain|Government (Post Expiry)|Exploration|Include minority interests
+68|Uncertain|Government (Post Expiry)|Greenfield|Include minority interests
+84|Uncommercial|Company|Brownfield|Include minority interests
+89|Uncommercial|Government|Exploration|Include minority interests
+93|Uncommercial|Government|Greenfield|Include minority interests
+108|Uncommercial|Government (Post Expiry)|Brownfield|Include minority interests
+117|Uncommercial disregarded|Company|Greenfield|Include minority interests
+123|Uncommercial disregarded|Government|Unknown|Include minority interests
+16|Commercial|Government|Exploration|Exclude minority interests
+33|Commercial|Government (Post Expiry)|Greenfield|Include minority interests
+37|Uncertain|Company|Unknown|Exclude minority interests
+40|Uncertain|Company|Exploration|Exclude minority interests
+62|Uncertain|Government (Post Expiry)|Unknown|Include minority interests
+69|Uncertain|Government (Post Expiry)|Greenfield|Include minority interests
+73|Uncommercial|Company|Unknown|Exclude minority interests
+75|Uncommercial|Company|Unknown|Include minority interests
+76|Uncommercial|Company|Exploration|Exclude minority interests
+82|Uncommercial|Company|Brownfield|Exclude minority interests
+87|Uncommercial|Government|Unknown|Include minority interests
+90|Uncommercial|Government|Exploration|Include minority interests
+96|Uncommercial|Government|Brownfield|Include minority interests
+109|Uncommercial disregarded|Company|Unknown|Exclude minority interests
+110|Uncommercial disregarded|Company|Unknown|Include minority interests
+111|Uncommercial disregarded|Company|Unknown|Include minority interests
+112|Uncommercial disregarded|Company|Exploration|Exclude minority interests
+113|Uncommercial disregarded|Company|Exploration|Include minority interests
+118|Uncommercial disregarded|Company|Brownfield|Exclude minority interests
+120|Uncommercial disregarded|Company|Brownfield|Include minority interests
+121|Uncommercial disregarded|Government|Unknown|Exclude minority interests
+122|Uncommercial disregarded|Government|Unknown|Include minority interests
+127|Uncommercial disregarded|Government|Greenfield|Exclude minority interests
+130|Uncommercial disregarded|Government|Brownfield|Exclude minority interests
+131|Uncommercial disregarded|Government|Brownfield|Include minority interests
+133|Uncommercial disregarded|Government (Post Expiry)|Unknown|Exclude minority interests
+135|Uncommercial disregarded|Government (Post Expiry)|Unknown|Include minority interests
+136|Uncommercial disregarded|Government (Post Expiry)|Exploration|Exclude minority interests
+138|Uncommercial disregarded|Government (Post Expiry)|Exploration|Include minority interests
+54|Uncertain|Government|Exploration|Include minority interests
+59|Uncertain|Government|Brownfield|Include minority interests
+70|Uncertain|Government (Post Expiry)|Brownfield|Exclude minority interests
+91|Uncommercial|Government|Greenfield|Exclude minority interests
+125|Uncommercial disregarded|Government|Exploration|Include minority interests
+126|Uncommercial disregarded|Government|Exploration|Include minority interests
+134|Uncommercial disregarded|Government (Post Expiry)|Unknown|Include minority interests
+83|Uncommercial|Company|Brownfield|Include minority interests
+140|Uncommercial disregarded|Government (Post Expiry)|Greenfield|Include minority interests
+61|Uncertain|Government (Post Expiry)|Unknown|Exclude minority interests
+102|Uncommercial|Government (Post Expiry)|Exploration|Include minority interests
+39|Uncertain|Company|Unknown|Include minority interests
+41|Uncertain|Company|Exploration|Include minority interests
+43|Uncertain|Company|Greenfield|Exclude minority interests
+46|Uncertain|Company|Brownfield|Exclude minority interests
+47|Uncertain|Company|Brownfield|Include minority interests
+50|Uncertain|Government|Unknown|Include minority interests
+51|Uncertain|Government|Unknown|Include minority interests
+56|Uncertain|Government|Greenfield|Include minority interests
+72|Uncertain|Government (Post Expiry)|Brownfield|Include minority interests
+78|Uncommercial|Company|Exploration|Include minority interests
+98|Uncommercial|Government (Post Expiry)|Unknown|Include minority interests
+103|Uncommercial|Government (Post Expiry)|Greenfield|Exclude minority interests
+104|Uncommercial|Government (Post Expiry)|Greenfield|Include minority interests
+137|Uncommercial disregarded|Government (Post Expiry)|Exploration|Include minority interests
+105|Uncommercial|Government (Post Expiry)|Greenfield|Include minority interests
+107|Uncommercial|Government (Post Expiry)|Brownfield|Include minority interests
+115|Uncommercial disregarded|Company|Greenfield|Exclude minority interests
+132|Uncommercial disregarded|Government|Brownfield|Include minority interests
+139|Uncommercial disregarded|Government (Post Expiry)|Greenfield|Exclude minority interests
+144|Uncommercial disregarded|Government (Post Expiry)|Brownfield|Include minority interests
+100|Uncommercial|Government (Post Expiry)|Exploration|Exclude minority interests
+20|Commercial|Government|Greenfield|Include minority interests
+67|Uncertain|Government (Post Expiry)|Greenfield|Exclude minority interests
+81|Uncommercial|Company|Greenfield|Include minority interests
+129|Uncommercial disregarded|Government|Greenfield|Include minority interests
+143|Uncommercial disregarded|Government (Post Expiry)|Brownfield|Include minority interests
+63|Uncertain|Government (Post Expiry)|Unknown|Include minority interests
+79|Uncommercial|Company|Greenfield|Exclude minority interests
+97|Uncommercial|Government (Post Expiry)|Unknown|Exclude minority interests

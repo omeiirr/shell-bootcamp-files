@@ -1,0 +1,43 @@
+Id|Data Confidence|Data Source|Data Type
+1|High|Analyst estimate|Researched
+2|Low|Analyst estimate|Researched
+3|Medium|Analyst estimate|Researched
+5|High|Annual Report|Researched
+6|Low|Annual Report|Researched
+7|Medium|Annual Report|Researched
+9|High|Articles on oil&gas domains|Researched
+10|Low|Articles on oil&gas domains|Researched
+11|Medium|Articles on oil&gas domains|Researched
+12|Speculative|Articles on oil&gas domains|Researched
+13|High|Company Press Releases|Researched
+15|Medium|Company Press Releases|Researched
+17|High|Company Webpage|Researched
+18|Low|Company Webpage|Researched
+19|Medium|Company Webpage|Researched
+20|Speculative|Company Webpage|Researched
+22|Low|Government webpage|Researched
+23|Medium|Government webpage|Researched
+24|Speculative|Government webpage|Researched
+27|Medium|Investor Presentation|Researched
+29|Modeled|Modeled|Modeled
+32|Low|Oilfield service Press Release|Researched
+33|Medium|Oilfield service Press Release|Researched
+34|Speculative|Oilfield service Press Release|Researched
+36|Low|Oilfield service Report|Researched
+37|Medium|Oilfield service Report|Researched
+40|Low|Other document|Researched
+41|Medium|Other document|Researched
+21|High|Government webpage|Researched
+30|Not Available|Not Available|Not Available
+42|Speculative|Other document|Researched
+8|Speculative|Annual Report|Researched
+14|Low|Company Press Releases|Researched
+25|High|Investor Presentation|Researched
+26|Low|Investor Presentation|Researched
+28|Speculative|Investor Presentation|Researched
+35|High|Oilfield service Report|Researched
+38|Speculative|Oilfield service Report|Researched
+39|High|Other document|Researched
+4|Speculative|Analyst estimate|Researched
+31|High|Oilfield service Press Release|Researched
+16|Speculative|Company Press Releases|Researched

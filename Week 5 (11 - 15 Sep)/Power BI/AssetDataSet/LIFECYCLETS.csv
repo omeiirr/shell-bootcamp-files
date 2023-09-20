@@ -1,0 +1,22 @@
+Id|Life Cycle Category TS|Life Cycle Detail TS|Life Cycle Group TS
+1|Unknown|Unknown|Unknown
+2|Abandoned|Abandoned|Non-producing
+3|Discovery|Appraising|Non-producing
+4|Discovery|Discovery (1950s)|Non-producing
+5|Discovery|Discovery (1960s)|Non-producing
+6|Discovery|Discovery (1970s)|Non-producing
+7|Discovery|Discovery (1980s)|Non-producing
+9|Discovery|Discovery (2000s)|Non-producing
+10|Discovery|Field evaluation|Non-producing
+13|Discovery|Old discoveries|Non-producing
+14|Producing|Producing >75%|Producing
+15|Producing|Producing 25-50%|Producing
+17|Producing|Producing early|Producing
+23|Under development|Under development|Non-producing
+24|Undiscovered|Undiscovered awarded|Non-producing
+25|Undiscovered|Undiscovered, Open acreage|Non-producing
+26|Seasonal (Other liquids)|Seasonal (Other liquids)|Seasonal (Other liquids)
+30|Producing|Producing (Refinery Gains)|Producing
+31|Discovery|Discovery (2010s)|Non-producing
+8|Discovery|Discovery (1990s)|Non-producing
+16|Producing|Producing 50%-75%|Producing

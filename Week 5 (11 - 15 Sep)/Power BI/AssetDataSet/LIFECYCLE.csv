@@ -1,0 +1,32 @@
+Id|Life Cycle Detail|Life Cycle Category|Life Cycle Group
+1|Unknown|Unknown|Unknown
+2|Abandoned|Abandoned|Non-producing
+3|Appraising|Discovery|Non-producing
+4|Discovery (1950s)|Discovery|Non-producing
+5|Discovery (1960s)|Discovery|Non-producing
+6|Discovery (1970s)|Discovery|Non-producing
+8|Discovery (1990s)|Discovery|Non-producing
+9|Discovery (2000s)|Discovery|Non-producing
+10|Field evaluation|Discovery|Non-producing
+11|New discovery|Discovery|Non-producing
+12|No Lifecycle|No Lifecycle|No Lifecycle
+13|Old discoveries|Discovery|Non-producing
+14|Producing >75%|Producing|Producing
+16|Producing 50%-75%|Producing|Producing
+19|Stranded-sub-commercial|Discovery|Non-producing
+20|Stranded-technically difficult|Discovery|Non-producing
+24|Undiscovered Awarded|Undiscovered|Non-producing
+26|Seasonal (Other liquids)|Seasonal (Other liquids)|Seasonal (Other liquids)
+27|Extensions America N|Undiscovered|Non-producing
+31|Discovery (2010s)|Discovery|Non-producing
+32|Dry Well|Dry Well|Non-producing
+22|Temporarily stopped|Abandoned|Non-producing
+25|Undiscovered, Open acreage|Undiscovered|Non-producing
+23|Under development|Under development|Non-producing
+29|Expected Extensions America N|Undiscovered|Non-producing
+7|Discovery (1980s)|Discovery|Non-producing
+15|Producing 25-50%|Producing|Producing
+17|Producing early|Producing|Producing
+30|Producing (Refinery Gains)|Producing|Producing
+21|Stranded-waiting in line|Discovery|Non-producing
+18|Stranded-landlocked|Discovery|Non-producing
