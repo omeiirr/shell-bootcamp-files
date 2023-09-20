@@ -1,0 +1,12 @@
+1. Analytics
+2. Artifacts
+3. Backlog
+4. Boards
+5. Delivery Plans
+6. Queries
+7. Repository
+8. Taskboard
+9. Test Run
+10. Tests
+11. Wiki
+12. Work Items
